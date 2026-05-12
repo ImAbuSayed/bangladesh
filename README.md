@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bangladesh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bangladesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bangladesh/) |
+| **Get License** | [Get License For Bangladesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bangladesh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ccf58fc0caa68b2e15dbe650382b3e054eb8bf831cc2a119d6fbf7c05000b0a8` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

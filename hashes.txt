@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bangladesh
+
+This log tracks the cryptographic history and versioning for the song **Bangladesh** (bangladesh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T23:35:38.055018 | `v1` | `ccf58fc0caa68b2e15dbe650382b3e054eb8bf831cc2a119d6fbf7c05000b0a8` | `3102f2c11f6207e539b2fb98cef1a1f474ad4393d813db58592966e11a4fc486` | `2026-05-12_bangladesh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
