@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bangladesh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bangladesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bangladesh/) |
+| **Get License** | [Commercial Licensing for Bangladesh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bangladesh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> দূর আকাশের নীল সীমানায়, তোমার স্বপ্ন আঁকি
+> এই জীবনের প্রতিটি ক্ষণ, তোমার জন্যই রাখি
+> অচিন দেশের রূপকথাতে, তুমি আমার আলো
+> আঁধার ঘেরা এই শহরে, তোমায় বাসি ভালো.. বাসি ভালো..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
